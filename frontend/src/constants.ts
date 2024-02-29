@@ -1,4 +1,4 @@
-const API_ENDPOINT = "https://embroidery-digitizer.herokuapp.com/api";
+const API_ENDPOINT = "http://embdigit.cap.wise-creations.com/api";
 
 export {
     API_ENDPOINT
